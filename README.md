@@ -1,7 +1,7 @@
 # Hi! I'm Diogo
 
 ##### 👨🏽‍💻 Software Developer
-##### 📚 Graduate in systems analysis and development até FICR
+##### 📚 Graduate in systems analysis and development at FICR
 ##### 👧🏿 Girl's father
 ··  
 [![Linkedin Badge](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/diogoladorucki/)](https://www.instagram.com/diogoladorucki/)
