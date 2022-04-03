@@ -1,6 +1,6 @@
 # Hi! I'm Diogo
 
-##### 👨🏽‍💻 Web Developer
+##### 👨🏽‍💻 Software Developer
 ##### 📚 ADS student at FICR
 ##### 👧🏿 Girl's father
 ··  
